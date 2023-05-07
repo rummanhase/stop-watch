@@ -1,0 +1,35 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ color: 	rgb(54, 69, 79)
+}
+
+.text-bg-dark{
+    width: 65%;
+    margin: 1rem auto;
+    text-align: center;
+    background-color: blue;
+}
+
+.card-title{
+    color: #252525;
+    margin-top: 2rem;
+}
+.input-group{
+width: 40%;
+margin: auto;
+}
+.card-text{
+    color: 	rgb(54, 69, 79);
+    margin-top: 2rem;
+}
+.text-center{
+    position: relative;
+    bottom: 0;
+}
+.current-time-cont{
+    width: 200px;
+    margin: auto;
+    margin-top: 2rem;
+}
